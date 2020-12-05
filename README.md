@@ -1,4 +1,4 @@
-# wapuujoesimpsonjr
+# WordPress Wapuu
 ## Joe A Simpson Jr's Wapuu WordCamp and WordPress Meetup Collection
 
 Hello world. I'm Joe, WordPress fan and founder of WordPress Santa Clarita Valley (2018), Elementor Santa Clarita Valley Meetup (2019), and WordCamp Santa Clarita here in northern Los Angeles County in California. Beginning with our inaugural WordCamp in Spring 2019, a new mythical and whimsical Wapuu was discovered. WordPress.org profile at https://profiles.wordpress.org/joesimpsonjr/
