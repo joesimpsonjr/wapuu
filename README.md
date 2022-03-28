@@ -7,7 +7,7 @@ Here you'll find the following six (and counting) of these creatures, their orig
 
 Wapuu Name | Event | Location | Description 
 ---------- | ----- | -------- | ----------- 
-**Surferpuu** | Proposed WordCamp United States 2022 | San Diego, CA | Proposed Wapuu for #wcus
+**Surferpuu** | WordCamp United States 2022 | San Diego, CA | Proposed Wapuu for #wcus
 **Bleepuu** | WordCamp Santa Clarita 2021 Online | Santa Clarita, CA | Wapuu created for #wcscv
 **Tikipuu the Pirate** | WordPress Treasure Coast Meetup | Stuart, FL | Wapuu created for Johnni Fazio, Organizer for a WordPress meetup in the Treasure Coast of Florida.  
 **Accessipuu** | WordPress San Fernando Valley Meetup | San Fernando Valley, CA | This Wapuu was developed for a three-Meetup joint event to celebrate the very first WordPress Accessibility Day, Oct 2-3, 2020. 
