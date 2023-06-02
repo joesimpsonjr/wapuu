@@ -7,7 +7,8 @@ Here you'll find the following six (and counting) of these creatures, their orig
 
 Wapuu Name | Event | Location | Description 
 ---------- | ----- | -------- | ----------- 
-**Surferpuu** | WordCamp United States 2022 | San Diego, CA | Proposed Wapuu for #wcus
+**Georgipuu** | WordCamp United States 2023 | National Harbor, MD | Wapuu for WordCamp US 2023, #wcus
+**Surferpuu** | WordCamp United States 2022 | San Diego, CA | Wapuu for WordCamp US 2022, #wcus
 **Majorpuu** | BlackPress WordPress Initiative | San Francisco, CA | Wapuu created as part of the BlackPress initiative, a Community effort to increase awareness with WordPress among contributors of Black/African descent.
 **Bleepuu** | WordCamp Santa Clarita 2021 Online | Santa Clarita, CA | Wapuu created for #wcscv
 **Tikipuu the Pirate** | WordPress Treasure Coast Meetup | Stuart, FL | Wapuu created for Johnni Fazio, Organizer for a WordPress meetup in the Treasure Coast of Florida.  
